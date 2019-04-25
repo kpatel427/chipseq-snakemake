@@ -227,13 +227,3 @@ rule macs2_postprocess:
 
 		"""
 
-
-
-
-
-
-
-
-
-
-
