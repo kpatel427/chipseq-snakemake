@@ -1,4 +1,6 @@
 # chipseq-snakemake
+This is a snakemake pipeline for chipseq pipeline. 
+The input is raw fastq files and resulting files from the pipeline are processed narrow/broad Peak and bigwig files.
 
 ### To create an enviornment
 `conda create -y -n snakemake-env python=3.6 && source activate snakemake-env && conda install -y -c bioconda -c conda-forge snakemake`
